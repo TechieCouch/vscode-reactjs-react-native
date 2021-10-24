@@ -1,8 +1,8 @@
 {
   "name": "techiecouch-reactjs-react-native",
-  "displayName": "ReactJS, React Native, NextJS, NodeJS and more extension pack",
+  "displayName": "ReactJS, React Native, NextJS, NodeJS, GraphQL extension pack",
   "description": "The 2021 Collection of extensions for the modern ReactJS/ReactNative/NextJS/NodeJS developer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
@@ -27,11 +27,16 @@
   "keywords": [
     "ReactJS",
     "ReactNative",
+    "React Native",
     "NextJS",
     "Styled Components",
     "NodeJS",
     "TailwindCSS",
-    "GIT"
+    "GIT",
+    "StoryBook",
+    "Jest",
+    "Markdown",
+    "GraphQL"
   ],
   "extensionPack": [
     "2gua.rainbow-brackets",
