@@ -1,8 +1,8 @@
 {
   "name": "techiecouch-reactjs-react-native",
-  "displayName": "TechieCouch - A collection of extensions : ReactJS, React Native, NextJS, NodeJS and more",
+  "displayName": "ReactJS, React Native, NextJS, NodeJS and more extension pack",
   "description": "The 2021 Collection of extensions for the modern ReactJS/ReactNative/NextJS/NodeJS developer",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
@@ -16,6 +16,15 @@
     "url": "https://github.com/TechieCouch/vscode-reactjs-react-native"
   },
   "tags": [
+    "ReactJS",
+    "ReactNative",
+    "NextJS",
+    "Styled Components",
+    "NodeJS",
+    "TailwindCSS",
+    "GIT"
+  ],
+  "keywords": [
     "ReactJS",
     "ReactNative",
     "NextJS",
