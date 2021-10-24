@@ -1,7 +1,7 @@
 {
   "name": "techiecouch-reactjs-react-native",
-  "displayName": "techiecouch-reactjs-react-native",
-  "description": "The 2021 Collection of extension for the modern ReactJS/ReactNative/NextJS/NodeJS developer",
+  "displayName": "TechieCouch - A collection of extensions : ReactJS, React Native, NextJS, NodeJS and more",
+  "description": "The 2021 Collection of extensions for the modern ReactJS/ReactNative/NextJS/NodeJS developer",
   "version": "0.0.2",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
