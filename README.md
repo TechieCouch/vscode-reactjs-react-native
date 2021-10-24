@@ -76,3 +76,4 @@
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - CSS Intellisense for HTML
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX
