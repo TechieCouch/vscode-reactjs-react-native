@@ -1,10 +1,10 @@
-# TechieCouch ReactJs ReactNative NextJS NodeJS Extension Pack
+# TechieCouch Extension Pack 2021
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.payloadcms-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.payloadcms-snippets)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.payloadcms-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.payloadcms-snippets)
-[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.payloadcms-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.payloadcms-snippets)
+[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
+[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
 
 ## Extensions included
 
@@ -15,7 +15,7 @@
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files.
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Lets you pull .gitignore templates from the <https://github.com/github/gitignore> repository. Language support for .gitignore files.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
