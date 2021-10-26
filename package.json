@@ -105,6 +105,8 @@
     "leizongmin.node-module-intellisense",
     "redhat.vscode-yaml",
     "clinyong.vscode-css-modules",
-    "steoates.autoimport"
+    "steoates.autoimport",
+    "shyykoserhiy.git-autoconfig",
+    "shaharkazaz.git-merger"
   ]
 }
