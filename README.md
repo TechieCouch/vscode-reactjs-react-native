@@ -2,9 +2,9 @@
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
-[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.techiecouch-reactjs-react-native.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
+[![Version](https://vsmarketplacebadges.dev/version/TechieCouch.techiecouch-reactjs-react-native.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
+[![Installs](https://vsmarketplacebadges.dev/installs/TechieCouch.techiecouch-reactjs-react-native.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
+[![Ratings](https://vsmarketplacebadges.dev/downloads/TechieCouch.techiecouch-reactjs-react-native.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.techiecouch-reactjs-react-native)
 
 ## Extensions included
 
