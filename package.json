@@ -2,7 +2,7 @@
   "name": "techiecouch-reactjs-react-native",
   "displayName": "ReactJS, React Native, NextJS, NodeJS, GraphQL extension pack",
   "description": "The 2023 Collection of extensions for the modern ReactJS/ReactNative/NextJS/NodeJS developer",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
