@@ -93,3 +93,4 @@
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Docker for Visual Studio Code Version Installs Build Status
   The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code. It also provides one-click debugging of Node.js, Python, and .NET Core inside a container.
 - [Docker Compose](https://marketplace.visualstudio.com/items?itemName=p1c2u.docker-compose) - Docker Compose Extension for Visual Studio Code
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
